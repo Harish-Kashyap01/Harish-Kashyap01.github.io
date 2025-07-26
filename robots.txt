@@ -1,3 +1,8 @@
 User-agent: *
 Allow: /
+
+# Sitemap location
 Sitemap: https://harish-kashyap01.github.io/sitemap.xml
+
+# Optional: Block specific directories if needed (uncomment and modify)
+# Disallow: /private/
